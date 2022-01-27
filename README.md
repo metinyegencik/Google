@@ -5,4 +5,4 @@
 
 ***Teşekkürlerimi ve saygılarımı sunarım.***
 
-![Örnek](https://picsum.photos/id/1/200/300)
+![Örnek](https://github.com/metinyegencik/Google/blob/master/Google.png)
